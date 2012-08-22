@@ -1,0 +1,4 @@
+spicewp
+=======
+
+Spice WP Template
